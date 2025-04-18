@@ -1,1 +1,47 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg",MediaService Lorenz TV
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:-1 group-title="Фильмы",red---
+http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/559/index.m3u8
+#EXTINF:-1 group-title="Фильмы",А 1
+http://31.148.48.15/A1/index.m3u8?token=test
+#EXTINF:-1 group-title="Фильмы",А 2
+http://31.148.48.15/A2/index.m3u8?token=test
+#EXTINF:-1 group-title="Фильмы",КИНО ТВ---
+http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/732/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Остросюжетное HD---
+http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/904/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Премиальное HD---
+http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/7222/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Kinoman-
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы",Русский бестселлер
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://dvb.by/sources/logos/1086s.png",Русский иллюзион-
+http://82.209.197.187:8080/udp/239.0.100.220:1234
+#EXTINF:-1 group-title="Фильмы",Красная линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://dvb.by/sources/logos/3616s.png",Победа-
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://dvb.by/sources/logos/1222s.png",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/smot.png",Расследование
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://smarttv.816club.net/wp-content/uploads/2021/03/favicon.png",Твоё ТВ HD
+http://84.38.180.145:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://dvb.by/sources/logos/3562s.png",Film TV-
+http://hls.goodgame.ru/hls/163253.m3u8?|user-agent=rostik_tv
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://pchelp24.com/wp-content/uploads/images/05(1).png",Твое ТВ Юмор HD
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://pchelp24.com/wp-content/uploads/images/05(1).png",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png",ФАНТАСТИКА HD
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png",ПАМЯТЬ HD
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png",УЖАСТИК HD
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png",PROMO HD
+http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png",МультСказки HD
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
