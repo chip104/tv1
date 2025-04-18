@@ -1,1 +1,241 @@
-
+#EXTM3U
+#EXTINF:0,CineMan
+http://ott.server-iptv.live/682/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Premium
+http://ott.server-iptv.live/1664/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Top
+http://ott.server-iptv.live/683/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Action
+http://ott.server-iptv.live/689/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Marvel
+http://ott.server-iptv.live/688/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Melodrama
+http://ott.server-iptv.live/690/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Комедия
+http://ott.server-iptv.live/691/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Thriller
+http://ott.server-iptv.live/686/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Катастрофы
+http://ott.server-iptv.live/693/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Ужасы
+http://ott.server-iptv.live/692/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan VHS
+http://ott.server-iptv.live/685/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Скорая помощь
+http://ott.server-iptv.live/694/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan MiniSeries
+http://ott.server-iptv.live/1662/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Комедийные сериалы
+http://ott.server-iptv.live/1604/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Ментовские Войны
+http://ott.server-iptv.live/1657/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Глухарь + Карпов
+http://ott.server-iptv.live/1672/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan ПёС
+http://ott.server-iptv.live/1658/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Лесник
+http://ott.server-iptv.live/1659/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Air Crash
+http://ott.server-iptv.live/419/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Военные Сериалы
+http://ott.server-iptv.live/1609/video.m3u8?token=S53B863B2A
+#EXTINF:0,Amedia Premium
+http://ott.server-iptv.live/624/video.m3u8?token=S53B863B2A
+#EXTINF:0,Amedia Hit
+http://ott.server-iptv.live/625/video.m3u8?token=S53B863B2A
+#EXTINF:0,А1 HD
+http://ott.server-iptv.live/640/video.m3u8?token=S53B863B2A
+#EXTINF:0,A2 HD
+http://ott.server-iptv.live/641/video.m3u8?token=S53B863B2A
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+http://ott.server-iptv.live/613/video.m3u8?token=S53B863B2A
+#EXTINF:0,КИНОХИТ
+http://ott.server-iptv.live/608/video.m3u8?token=S53B863B2A
+#EXTINF:0,КИНОМИКС
+http://ott.server-iptv.live/609/video.m3u8?token=S53B863B2A
+#EXTINF:0,КИНОСЕМЬЯ
+http://ott.server-iptv.live/610/video.m3u8?token=S53B863B2A
+#EXTINF:0,КИНОСВИДАНИЕ
+http://ott.server-iptv.live/614/video.m3u8?token=S53B863B2A
+#EXTINF:0,МУЖСКОЕ КИНО
+http://ott.server-iptv.live/633/video.m3u8?token=S53B863B2A
+#EXTINF:0,Кинокомедия
+http://ott.server-iptv.live/654/video.m3u8?token=S53B863B2A
+#EXTINF:0,Киноужас HD
+http://ott.server-iptv.live/642/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viju+ Premiere HD
+http://ott.server-iptv.live/605/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viju TV1000 Action
+http://ott.server-iptv.live/623/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viasat Kino Action HD
+http://ott.server-iptv.live/1601/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viju+ Megahit HD
+http://ott.server-iptv.live/606/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viasat Kino Megahit HD
+http://ott.server-iptv.live/1607/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viju+ Comedy HD
+http://ott.server-iptv.live/607/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viasat Kino Comedy HD
+http://ott.server-iptv.live/1605/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viasat World Kino
+http://ott.server-iptv.live/1608/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viasat Kino HD
+http://ott.server-iptv.live/618/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viju TV1000
+http://ott.server-iptv.live/622/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viju+ Serial HD
+http://ott.server-iptv.live/636/video.m3u8?token=S53B863B2A
+#EXTINF:0,Кинопоказ HD
+http://ott.server-iptv.live/611/video.m3u8?token=S53B863B2A
+#EXTINF:0,Премиальное HD
+http://ott.server-iptv.live/612/video.m3u8?token=S53B863B2A
+#EXTINF:0,Хит HD
+http://ott.server-iptv.live/665/video.m3u8?token=S53B863B2A
+#EXTINF:0,КИНО ТВ
+http://ott.server-iptv.live/600/video.m3u8?token=S53B863B2A
+#EXTINF:0,Остросюжетное HD
+http://ott.server-iptv.live/604/video.m3u8?token=S53B863B2A
+#EXTINF:0,Kinowood HD
+http://ott.server-iptv.live/1610/video.m3u8?token=S53B863B2A
+#EXTINF:0,Блокбастер HD
+http://ott.server-iptv.live/668/video.m3u8?token=S53B863B2A
+#EXTINF:0,Kino 24
+http://ott.server-iptv.live/1671/video.m3u8?token=S53B863B2A
+#EXTINF:0,Кино без границ
+http://ott.server-iptv.live/1673/video.m3u8?token=S53B863B2A
+#EXTINF:0,KinoLiving
+http://ott.server-iptv.live/1663/video.m3u8?token=S53B863B2A
+#EXTINF:0,Камеди HD
+http://ott.server-iptv.live/676/video.m3u8?token=S53B863B2A
+#EXTINF:0,Комедийное HD
+http://ott.server-iptv.live/617/video.m3u8?token=S53B863B2A
+#EXTINF:0,Комедия
+http://ott.server-iptv.live/671/video.m3u8?token=S53B863B2A
+#EXTINF:0,Шокирующее HD
+http://ott.server-iptv.live/1661/video.m3u8?token=S53B863B2A
+#EXTINF:0,Trash HD
+http://ott.server-iptv.live/674/video.m3u8?token=S53B863B2A
+#EXTINF:0,НСТ
+http://ott.server-iptv.live/660/video.m3u8?token=S53B863B2A
+#EXTINF:0,Hollywood HD
+http://ott.server-iptv.live/669/video.m3u8?token=S53B863B2A
+#EXTINF:0,Hollywood
+http://ott.server-iptv.live/634/video.m3u8?token=S53B863B2A
+#EXTINF:0,Comedy Central
+http://ott.server-iptv.live/645/video.m3u8?token=S53B863B2A
+#EXTINF:0,Мир Сериала
+http://ott.server-iptv.live/627/video.m3u8?token=S53B863B2A
+#EXTINF:0,Киносерия
+http://ott.server-iptv.live/650/video.m3u8?token=S53B863B2A
+#EXTINF:0,Дом Кино Премиум HD
+http://ott.server-iptv.live/603/video.m3u8?token=S53B863B2A
+#EXTINF:0,Дом Кино
+http://ott.server-iptv.live/635/video.m3u8?token=S53B863B2A
+#EXTINF:0,Наше новое кино
+http://ott.server-iptv.live/620/video.m3u8?token=S53B863B2A
+#EXTINF:0,Наше HD
+http://ott.server-iptv.live/616/video.m3u8?token=S53B863B2A
+#EXTINF:0,Наш Кинопоказ HD
+http://ott.server-iptv.live/666/video.m3u8?token=S53B863B2A
+#EXTINF:0,Viju TV1000 Русское
+http://ott.server-iptv.live/621/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan РуКино
+http://ott.server-iptv.live/687/video.m3u8?token=S53B863B2A
+#EXTINF:0,Родное кино
+http://ott.server-iptv.live/678/video.m3u8?token=S53B863B2A
+#EXTINF:0,Победа
+http://ott.server-iptv.live/632/video.m3u8?token=S53B863B2A
+#EXTINF:0,Арсенал HD
+http://ott.server-iptv.live/664/video.m3u8?token=S53B863B2A
+#EXTINF:0,Патриот
+http://ott.server-iptv.live/652/video.m3u8?token=S53B863B2A
+#EXTINF:0,Русский роман
+http://ott.server-iptv.live/629/video.m3u8?token=S53B863B2A
+#EXTINF:0,Про Любовь HD
+http://ott.server-iptv.live/667/video.m3u8?token=S53B863B2A
+#EXTINF:0,Романтичное HD
+http://ott.server-iptv.live/1660/video.m3u8?token=S53B863B2A
+#EXTINF:0,Душевное кино
+http://ott.server-iptv.live/615/video.m3u8?token=S53B863B2A
+#EXTINF:0,Душевное кино HD
+http://ott.server-iptv.live/697/video.m3u8?token=S53B863B2A
+#EXTINF:0,Русский бестселлер
+http://ott.server-iptv.live/630/video.m3u8?token=S53B863B2A
+#EXTINF:0,Русский детектив
+http://ott.server-iptv.live/679/video.m3u8?token=S53B863B2A
+#EXTINF:0,Русский Иллюзион
+http://ott.server-iptv.live/631/video.m3u8?token=S53B863B2A
+#EXTINF:0,Иллюзион+
+http://ott.server-iptv.live/638/video.m3u8?token=S53B863B2A
+#EXTINF:0,Феникс+ Кино
+http://ott.server-iptv.live/680/video.m3u8?token=S53B863B2A
+#EXTINF:0,KLI СССР HD
+http://ott.server-iptv.live/1600/video.m3u8?token=S53B863B2A
+#EXTINF:0,Мосфильм. Золотая коллекция
+http://ott.server-iptv.live/659/video.m3u8?token=S53B863B2A
+#EXTINF:0,Любимое кино
+http://ott.server-iptv.live/619/video.m3u8?token=S53B863B2A
+#EXTINF:0,Ретро
+http://ott.server-iptv.live/658/video.m3u8?token=S53B863B2A
+#EXTINF:0,Sony Sci-Fi
+http://ott.server-iptv.live/648/video.m3u8?token=S53B863B2A
+#EXTINF:0,Дорама
+http://ott.server-iptv.live/675/video.m3u8?token=S53B863B2A
+#EXTINF:0,FX HD
+http://ott.server-iptv.live/626/video.m3u8?token=S53B863B2A
+#EXTINF:0,FX Life
+http://ott.server-iptv.live/646/video.m3u8?token=S53B863B2A
+#EXTINF:0,Shot TV
+http://ott.server-iptv.live/657/video.m3u8?token=S53B863B2A
+#EXTINF:0,Bolt
+http://ott.server-iptv.live/637/video.m3u8?token=S53B863B2A
+#EXTINF:0,Cinema
+http://ott.server-iptv.live/628/video.m3u8?token=S53B863B2A
+#EXTINF:0,TV XXI
+http://ott.server-iptv.live/601/video.m3u8?token=S53B863B2A
+#EXTINF:0,Еврокино
+http://ott.server-iptv.live/602/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Сваты
+http://ott.server-iptv.live/684/video.m3u8?token=S53B863B2A
+#EXTINF:0,Star Cinema Россия HD
+http://ott.server-iptv.live/643/video.m3u8?token=S53B863B2A
+#EXTINF:0,Star Family Россия HD
+http://ott.server-iptv.live/673/video.m3u8?token=S53B863B2A
+#EXTINF:0,Кинеко
+http://ott.server-iptv.live/639/video.m3u8?token=S53B863B2A
+#EXTINF:0,Сапфир
+http://ott.server-iptv.live/647/video.m3u8?token=S53B863B2A
+#EXTINF:0,.red
+http://ott.server-iptv.live/695/video.m3u8?token=S53B863B2A
+#EXTINF:0,.black
+http://ott.server-iptv.live/649/video.m3u8?token=S53B863B2A
+#EXTINF:0,Bollywood HD
+http://ott.server-iptv.live/644/video.m3u8?token=S53B863B2A
+#EXTINF:0,Индийское кино
+http://ott.server-iptv.live/651/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU Premiere HD
+http://ott.server-iptv.live/1614/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU Кинозал Premiere 1 HD
+http://ott.server-iptv.live/1619/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU Кинозал Premiere 2 HD
+http://ott.server-iptv.live/1622/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU Кинозал Premiere 3 HD
+http://ott.server-iptv.live/1623/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU Kinorating HD
+http://ott.server-iptv.live/1613/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU Marvel HD
+http://ott.server-iptv.live/1612/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU Fantastic HD
+http://ott.server-iptv.live/1606/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU Romantic HD
+http://ott.server-iptv.live/1616/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU Stars HD
+http://ott.server-iptv.live/1618/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU VHS HD
+http://ott.server-iptv.live/1620/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU Russian HD
+http://ott.server-iptv.live/1617/video.m3u8?token=S53B863B2A
+#EXTINF:0,BCU Сваты HD
+http://ott.server-iptv.live/1624/video.m3u8?token=S53B863B2A
+#EXTINF:0,CineMan Фитнес
+http://ott.server-iptv.live/1404/video.m3u8?token=S53B863B2A
