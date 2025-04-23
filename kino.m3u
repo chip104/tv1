@@ -1,12 +1,15 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 group-title="Кино", 1FILMAX
+#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg", 1FILMAX
 http://hls.goodgame.ru:8080/hls/204708.m3u8
-#EXTINF:-1 group-title="Кино", 2FILMAX
+#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg", 2FILMAX
 http://hls.goodgame.ru:8080/hls/204717.m3u8
-
+#EXTINF:-1 group-title="KINO+",FX
+http://45.143.108.110:2203/FOX
 #EXTINF:-1 group-title="Кино", FMC
 http://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:-1 group-title="KINO+",FX Life
+http://188.237.47.212:6008
 
 #EXTINF:-1 group-title="Кино", Сити Эдем - КиноЭкшен
 https://v2.catcast.tv/content/41333/index.m3u8
@@ -28,8 +31,78 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 #EXTINF:-1 group-title="Разные" tvg-logo="https://iptvx.one/picons/cosmostv.png" tvg-id="cinema", Cinema Космос ТВ
 http://178.124.152.238:8088/cinema
+#EXTINF:-1 group-title="KINO+",Just tv
+http://185.236.229.62:9981/play/a08e
+#EXTINF:-1 group-title="KINO+",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1, Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1, NM Television
 https://tv.a21network.ru/content/40650/index.m3u8
+
+
+#EXTINF:-1 group-title="Каналы с VPN", Золотая коллекция
+http://130.193.73.10:8937/play/a03i
+#EXTINF:-1 group-title="Каналы с VPN",Видеокасета VHS
+http://hls.goodgame.ru/hls/176975.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Amedia Hit
+http://130.193.73.10:8937/play/a02o
+#EXTINF:-1 group-title="Каналы с VPN",.black
+http://109.200.130.123:7537/play/a02s
+#EXTINF:-1 group-title="Каналы с VPN",Hollywood
+http://109.200.130.123:7537/play/a02g
+#EXTINF:-1 group-title="Каналы с VPN",Hollywood HD
+http://130.193.73.10:8937/play/a02k
+#EXTINF:-1 group-title="Каналы с VPN",KinoLiving
+http://109.200.130.123:7537/play/a02k
+#EXTINF:-1 group-title="Каналы с VPN",SHOT TV
+http://109.200.130.123:7537/play/a02b
+#EXTINF:-1 group-title="Каналы с VPN",Alpha Cinema
+http://hls.goodgame.ru/hls/205072.m3u8
+
+#EXTINF:-1 group-title="Каналы с VPN", Кошмар HD
+http://hlss.goodgame.ru/hls/204709.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Film TV 1
+http://hls.goodgame.ru/hls/208358.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Film TV 3 (солдаты)
+http://hls.goodgame.ru/hls/210275.m3u8
+#EXTINF:-1 group-title="Каналы с VPN", NReality
+http://hls.goodgame.ru/hls/196074.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Film TV 4 (друзья)
+http://hls.goodgame.ru/hls/157269.m3u8
+
+
+#EXTINF:-1 group-title="Каналы с VPN",FILM TV
+http://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Film TV 2
+http://hls.goodgame.ru/hls/181039.m3u8
+#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.ibb.co/688SVFy/image-38.png",Фантом
+http://hls.goodgame.ru/hls/204722.m3u8
+#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://psv4.userapi.com/c520036/u1279180/docs/d20/69fcef75b548/FMC.png",TDM TV - FMC
+http://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Techno Dance Music
+http://hls.goodgame.ru/hls/180509.m3u8
+#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.ibb.co/0K73Hmj/av-1499153-llgo-transformed.png",Hot Beats TV HD
+http://hls.goodgame.ru/hls/191858.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",TMF 
+http://hls.goodgame.ru/hls/201891.m3u8
+#EXTINF:-1 group-title="Каналы с VPN", FantasticMystiC
+http://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Мультики и Сказки HD
+https://hls.goodgame.ru/hls/198446.m3u8
+#EXTINF:-1 group-title="KINO+",Ретро
+http://135.181.115.81:8000/play/a03e/index.m3u8?token=livetv
+
+
+#EXTINF:-1 group-title="Каналы с VPN",alpha Onenite 
+http://hls.goodgame.ru/hls/205116.m3u8
+
+#EXTINF:-1 group-title="Каналы с VPN",alpha Anime
+http://hls.goodgame.ru/hls/205115.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",alpha Funny 
+http://hls.goodgame.ru/hls/206963.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",TDM TV - WWW
+http://hls.goodgame.ru:8080/hls/192005.m3u8
+#EXTINF:-1 group-title="KINO+",Ностальгия
+http://178.124.152.238:8088/nostalgia
