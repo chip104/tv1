@@ -1,83 +1,125 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg", 1FILMAX
+#EXTINF:-1 group-title="Новости", РБК [1920x1080]
+http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 group-title="Русские" tvg-logo="https://i.imgur.com/RUSX0rX.png", Первый канал HD
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Русские" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда [1920x1080]
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/NNmjD9Z.png",Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 group-title="Русские" tvg-logo="https://iptvx.one/picons/360-int.png" tvg-id="360-int", 360°
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg", 1FILMAX+
 http://hls.goodgame.ru:8080/hls/204708.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg", 2FILMAX
+#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg", 2FILMAX+
 http://hls.goodgame.ru:8080/hls/204717.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://psv4.userapi.com/c520036/u1279180/docs/d20/69fcef75b548/FMC.png", FantasticMystiC
 http://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 group-title="Кино", Malder Мегахит
 https://v2.catcast.tv/content/47689/index.m3u8
+#EXTINF:0 group-title="Хиты" tvg-logo="https://iptvx.one/picons/vip-megahit-cee.png" tvg-id="vip-megahit-cee",[Viasat] Kino Megahit
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/14141/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем - КиноЭкшен
 https://v2.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем - КиноМистика
 https://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем - КиноНовелла
 http://v2.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="Каналы с VPN",FILM TV (SELECAOTV)
+#EXTINF:0 group-title="VHS" tvg-logo="https://iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka", VHS-ка
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/5006/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN", FILM TV (SELECAOTV)
 http://hls.goodgame.ru/hls/163253.m3u8
-#EXTINF:-1 group-title="Каналы с VPN",Film TV 1
+#EXTINF:-1 group-title="Разное", FILM TV (SELECAOTV)[1280x720]
+http://hlss.goodgame.ru:8080/hls/163253.m3u8
+#EXTINF:-1 group-title="Каналы с VPN", Film TV 1
 http://hls.goodgame.ru/hls/208358.m3u8
 
-#EXTINF:-1 group-title="Кино", FAN 
+#EXTINF:-1 group-title="Кино", FAN+ 
 http://109.200.130.123:7537/play/a02a
-#EXTINF:-1 group-title="Кино", FX
+#EXTINF:-1 group-title="Кино", FX+
 http://45.143.108.110:2203/FOX
 
-#EXTINF:-1 group-title="Кино", FX Life
+#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/foxlife.png" tvg-id="foxlife", FX Life
 http://188.237.47.212:6008
-#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.ibb.co/688SVFy/image-38.png",Фантом
+#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.ibb.co/688SVFy/image-38.png", Фантом
 http://hls.goodgame.ru/hls/204722.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", Кошмар HD
 http://hlss.goodgame.ru/hls/204709.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", КОШМАР
+http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 
-#EXTINF:-1 group-title="Каналы с VPN",Film TV 3 (солдаты)
+#EXTINF:-1 group-title="Каналы с VPN", Film TV 3 (солдаты)
 http://hls.goodgame.ru/hls/210275.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", NReality (интерны, пацаны)
 http://hls.goodgame.ru/hls/196074.m3u8
-#EXTINF:-1 group-title="Каналы с VPN",Film TV 4 (друзья)
+#EXTINF:-1 group-title="Каналы с VPN", Film TV 4 (друзья)
 http://hls.goodgame.ru/hls/157269.m3u8
 
 #EXTINF:-1 group-title="Кино", ԼԱՅՄ GOLD TV
 https://v2.catcast.tv/content/40546/index.m3u8
-
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/cosmostv.png" tvg-id="cinema", Cinema Космос ТВ
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png", 312 Кино (406p)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/cosmostv.png" tvg-id="cinema", Cinema Космос ТВ+
 http://178.124.152.238:8088/cinema
 
-#EXTINF:-1 group-title="Кино", Ретро
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", CINEMA
+http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", KINO 24
+http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/L01RjKe.png", Кино ТВ [720x576]
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Русские",Твоё ТВ [1920x1080]
+http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" tvg-id="tvoetv-humor", Твоё ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Кино", Ретро+
 http://135.181.115.81:8000/play/a03e/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино", Золотая коллекция
 http://130.193.73.10:8937/play/a03i
-#EXTINF:-1 group-title="Кино", Кино 1 International
+#EXTINF:0 group-title="Советское кино" tvg-logo="https://iptvx.one/picons/sov-kinklass.png" tvg-id="sov-kinklass",Советская киноклассика
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/2146/index.m3u8
+##EXTINF:-1 group-title="Кино" tvg-id="6258" tvg-name="Кино 1 International" tvg-logo="http://epg.it999.ru/img/6258.png", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Кино", Детское кино International
+#EXTINF:-1 group-title="Разное",Байкал Универ ТВ [1920x1080]
+https://stream01.bgu.ru/1/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Детские" tvg-logo="https://epgx.site/p/detkinoint-tviksel.png", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://epgx.site/p/ani.png", Ani (WSVGA)
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+#EXTINF:-1 group-title="Детские",Fox Kids HD [320x240]
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 
 #EXTINF:-1 group-title="Каналы с VPN", .black
 http://109.200.130.123:7537/play/a02s
-#EXTINF:-1 group-title="Каналы с VPN", KinoLiving
+#EXTINF:-1 group-title="Каналы с VPN", KinoLiving+
 http://109.200.130.123:7537/play/a02k
-#EXTINF:-1 group-title="Каналы с VPN", SHOT TV
+#EXTINF:-1 group-title="Каналы с VPN", SHOT TV+
 http://109.200.130.123:7537/play/a02b
-#EXTINF:-1 group-title="Каналы с VPN", Hollywood
+#EXTINF:-1 group-title="Каналы с VPN", Hollywood+
 http://109.200.130.123:7537/play/a02g
 
 #EXTINF:-1 group-title="Каналы с VPN", Alpha Cinema
 http://hls.goodgame.ru/hls/205072.m3u8
 
+#EXTINF:-1 group-title="Новости" tvg-logo="https://www.lyngsat.com/logo/tv/ll/legendarnyy-24-ru.png",Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 group-title="Кино", Just tv
 http://185.236.229.62:9981/play/a08e
-#EXTINF:-1 group-title="Разные", Прима
+#EXTINF:-1 group-title="Разные", Прима+
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 
-#EXTINF:-1 group-title="Каналы с VPN",Мультики и Сказки HD
+#EXTINF:-1 group-title="Каналы с VPN", Мультики и Сказки HD
 http://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", alpha Onenite (Moretime) мул
 http://hls.goodgame.ru/hls/205116.m3u8
 
-#EXTINF:-1 group-title="KINO+",Ностальгия
+#EXTINF:-1 group-title="KINO+", Ностальгия+
 http://178.124.152.238:8088/nostalgia
-#EXTINF:-1 group-title="Каналы с VPN",TDM TV - WWW
+#EXTINF:-1 group-title="Каналы с VPN", TDM TV - WWW
 http://hls.goodgame.ru:8080/hls/192005.m3u8
 #EXTINF:-1 group-title="Каналы с VPN",alpha Funny 
 http://hls.goodgame.ru/hls/206963.m3u8
@@ -85,22 +127,140 @@ http://hls.goodgame.ru/hls/206963.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", Film TV 2 (дур. озвуч)
 http://hls.goodgame.ru/hls/181039.m3u8
 
-#EXTINF:-1 group-title="Каналы с VPN",alpha Funny 
+#EXTINF:-1 group-title="Каналы с VPN", alpha Funny 
 http://hls.goodgame.ru/hls/206963.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", alpha Anime (Games)
 http://hls.goodgame.ru/hls/205115.m3u8
+
+#EXTINF:-1 group-title="Музыка",Музыка Кино International [768x432]
+http://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Музыка",Музыка 1 International [768x432]
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Музыка",Музыка 2 International [768x432]
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Кінозали", КИНОЗАЛ БИК (муз)
+https://v2.catcast.tv/content/41833/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/1nHxdkR.png",Infinita TV (1080p)
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1, NM Television (муз)
 https://tv.a21network.ru/content/40650/index.m3u8
-#EXTINF:-1 group-title="Каналы с VPN",Techno Dance Music
+#EXTINF:-1 group-title="Каналы с VPN", Techno Dance Music
 http://hls.goodgame.ru/hls/180509.m3u8
-#EXTINF:-1 group-title="Каналы с VPN",TMF
+#EXTINF:-1 group-title="Музыка плюс", TDM TV - Techno Dance Music [1920x1080]
+http://hlss.goodgame.ru:8080/hls/180509.m3u8
+#EXTINF:-1 group-title="Каналы с VPN", TMF
 http://hls.goodgame.ru/hls/201891.m3u8
-#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.ibb.co/0K73Hmj/av-1499153-llgo-transformed.png",Hot Beats TV HD
+#EXTINF:-1 group-title="Музичні",Vuemme TV
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка плюс",Radio Hit Fm [it] [1280x720]
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.ibb.co/0K73Hmj/av-1499153-llgo-transformed.png", Hot Beats TV HD
 http://hls.goodgame.ru/hls/191858.m3u8
+#EXTINF:-1 group-title="Музыка",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/qiCCX5X.png", Now 70`s [1280x720]
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/YyPnMeB.png", Now 80`s [1280x720]
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/yo8lEu1.png", Now 90`s [1280x720]
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://epg.it999.ru/img/6117.png", Kiss Kiss Italia HD
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка плюс" tvg-logo="https://i.imgur.com/t3i1HtE.jpg", The Retro Channel [pr] [1920x1080]
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка плюс" tvg-logo="https://i.imgur.com/i3YwORV.png",88 Stereo [cr] [1280x720]
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Музыка плюс" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Deep House [gr] [1280x720]
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="Музыка плюс" tvg-logo="https://i.imgur.com/TZ1unwF.png",Baraza TV Relaxing [gr] [1280x720]
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="Музичні",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музичні",Ocko Gold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музичні",Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыка плюс",Radio Love FM [it] [1920x1080]
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка плюс" tvg-logo="https://i.imgur.com/pyOjdZs.png",Retro Music TV [cz] [1024x576]
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка плюс" tvg-logo="https://i.imgur.com/h48pwLn.png",Tropical Music TV [us] [1280x720]
+http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/XIwTM1h.png",LA MIA TV (720p) [Not 24/7]
+https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/tQSoQXW.png",Power Türk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музичні",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1 group-title="Каналы с VPN", Видеокасета VHS --
 http://hls.goodgame.ru/hls/176975.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png", Видеокассета
+http://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Видеокассета Киномир
+http://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", Amedia Hit --
 http://130.193.73.10:8937/play/a02o
-#EXTINF:-1 group-title="Каналы с VPN", Hollywood HD
+#EXTINF:-1 group-title="Каналы с VPN", Hollywood HD+
 http://130.193.73.10:8937/play/a02k
+
+#EXTINF:-1 group-title="Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",Nickelodeon
+https://31.148.48.15/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://epgx.site/p/nickelodeon-ru.png",Nickelodeon (HD)
+https://stream01.vnet.am/Channel_114/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S" ,Nickelodeon
+https://91.205.199.3:80/roos-nickelodeon/manifest.m3u8
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png", Чип и Дейл
+https://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="Разное", Чип и Дейл HD [1440x1080]
+https://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png",ПАМЯТЬ HD
+https://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png",УЖАСТИК HD
+https://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png",PROMO HD
+https://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png",МультСказки HD
+https://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Каналы с VPN",Мультики и Сказки HD
+http://hls.goodgame.ru/hls/198446.m3u8
+
+#EXTINF:0 group-title="Разные" tvg-logo="https://iptvx.one/picons/ultra-hd-cinema.png" tvg-id="ultra-hd-cinema",[Ultra] Cinema
+http://janina123.ucomist.net/iptv/5V9LQKCPT73W46/4000/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/box-serial4k.png" tvg-id="box-serial4k",[BOX] Serial 4K
+https://4c714bd4.kazaktelekom.com/iptv/5RVQZMQGNELBF86P2RYFDRPV/31657/index.m3u8
+#EXTINF:-1 group-title="Кіноканали", Кино тв трейлер
+http://xyoxkgopk6b.a.trbcdn.net/kino/smil:kinotv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://yootv.ru/images/logo-channel/smotrim-tv.png", Смотрим:Частный Детектив (HD)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Русские" tvg-logo="https://epgx.site/p/krasnaya-linia.png", Красная линия (EDTV 480p)
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Русские" tvg-logo="https://epgx.site/p/stv-by.png",CTV.BY (HD ready)
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Русские" tvg-logo="https://epgx.site/p/zal-suda.png",Зал суда (EDTV 576p)
+http://95.156.76.230:33001/udp/230.4.34.6:1234
+#EXTINF:0 group-title="НТВ" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" tvg-id="ntv-pravo",Право
+http://130.193.73.10:8937/play/a01s
+#EXTINF:-1 group-title="Разное",Большая Азия [854x480]
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="МУЗИКА",70-80 TV [it]
+http://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 group-title="Музичні", TVM 3
+http://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
+#EXTINF:-1 group-title="Музыка плюс" tvg-logo="https://i.imgur.com/sKj3dgc.png",Klape i Tambure TV [hr] [1920x1080]
+https://stream.cmctv.hr:49998/kit/live.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/G5mNdpE.png",Impact TV Dance (1080p)
+http://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/hwuaomt.png",IQ Channel (720p)
+http://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", TMF RUS
+http://hls.goodgame.ru/hls/201891.m3u8
+#EXTINF:-1 group-title="Музыка плюс" tvg-logo="https://i.imgur.com/JWMk2fP.png",Cantina TV [ve] [1280x720]
+http://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1 group-title="Музыка плюс" tvg-logo="https://i.imgur.com/2MDjU7x.png",Kayhan TV [af] [1280x720]
+http://playout395.livestreamingcdn.com/live/Stream1/chunklist_w523424868.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/2MDjU7x.png",Kayhan TV (720p)
+http://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
