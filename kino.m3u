@@ -11,9 +11,9 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 group-title="Русские" tvg-logo="https://iptvx.one/picons/360-int.png" tvg-id="360-int", 360°
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg", 1FILMAX+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg", 1FILMAX
 http://hls.goodgame.ru:8080/hls/204708.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg", 2FILMAX+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg", 2FILMAX
 http://hls.goodgame.ru:8080/hls/204717.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://psv4.userapi.com/c520036/u1279180/docs/d20/69fcef75b548/FMC.png", FantasticMystiC
 http://hls.goodgame.ru/hls/187741.m3u8
@@ -36,9 +36,9 @@ http://hlss.goodgame.ru:8080/hls/163253.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", Film TV 1
 http://hls.goodgame.ru/hls/208358.m3u8
 
-#EXTINF:-1 group-title="Кино", FAN+ 
+#EXTINF:-1 group-title="Кино", FAN 
 http://109.200.130.123:7537/play/a02a
-#EXTINF:-1 group-title="Кино", FX+
+#EXTINF:-1 group-title="Кино", FX
 http://45.143.108.110:2203/FOX
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/foxlife.png" tvg-id="foxlife", FX Life
@@ -61,7 +61,7 @@ http://hls.goodgame.ru/hls/157269.m3u8
 https://v2.catcast.tv/content/40546/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png", 312 Кино (406p)
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/cosmostv.png" tvg-id="cinema", Cinema Космос ТВ+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/cosmostv.png" tvg-id="cinema", Cinema Космос ТВ
 http://178.124.152.238:8088/cinema
 
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", CINEMA
@@ -95,7 +95,7 @@ http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 
 #EXTINF:-1 group-title="Каналы с VPN", .black
 http://109.200.130.123:7537/play/a02s
-#EXTINF:-1 group-title="Каналы с VPN", KinoLiving+
+#EXTINF:-1 group-title="Каналы с VPN", KinoLiving
 http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 group-title="Каналы с VPN", SHOT TV+
 http://109.200.130.123:7537/play/a02b
@@ -117,7 +117,7 @@ http://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", alpha Onenite (Moretime) мул
 http://hls.goodgame.ru/hls/205116.m3u8
 
-#EXTINF:-1 group-title="KINO+", Ностальгия+
+#EXTINF:-1 group-title="KINO+", Ностальгия
 http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 group-title="Каналы с VPN", TDM TV - WWW
 http://hls.goodgame.ru:8080/hls/192005.m3u8
@@ -201,7 +201,7 @@ http://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 http://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", Amedia Hit --
 http://130.193.73.10:8937/play/a02o
-#EXTINF:-1 group-title="Каналы с VPN", Hollywood HD+
+#EXTINF:-1 group-title="Каналы с VPN", Hollywood HD
 http://130.193.73.10:8937/play/a02k
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",Nickelodeon
