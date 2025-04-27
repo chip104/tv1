@@ -132,6 +132,20 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.
 #EXTINF:-1 group-title="Русские" tvg-logo="https://epgx.site/p/stv-by.png",CTV.BY (HD ready)
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы", ИНДИЙСКОЕ КИНО
+http://65.21.85.175:8000/play/a00o/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы", КИНОХИТ
+http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы", Мужское кино
+http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Кино и сериалы", НТВ СЕРИАЛ
+http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", НТВ ХИТ
+http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
+
+#EXTINF:-1 group-title="Разное", НТВ СТИЛЬ
+http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 group-title="Русские" tvg-logo="https://epgx.site/p/krasnaya-linia.png", Красная линия (EDTV 480p)
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 
@@ -152,9 +166,6 @@ http://hls.goodgame.ru/hls/206963.m3u8
 #EXTINF:-1 group-title="Разное", alpha Anime Games
 http://hls.goodgame.ru/hls/205115.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы", Film TV 2 (дур. озвуч)
-http://hls.goodgame.ru/hls/181039.m3u8
- 
 #EXTINF:-1 group-title="Разное", КИНОЗАЛ БИК (муз)
 https://v2.catcast.tv/content/41833/index.m3u8
 
@@ -221,98 +232,3 @@ https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 http://playout395.livestreamingcdn.com/live/Stream1/chunklist_w523424868.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/sKj3dgc.png", Klape i Tambure TV [hr] [1920x1080]
 https://stream.cmctv.hr:49998/kit/live.m3u8
-
-
-#EXTINF:-1 group-title="Usba TV",Ералаш
-http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Usba TV",Шоу Бенни Хилла
-http://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Usba TV",Мистер Бин
-http://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 group-title="Usba TV",Военный
-http://fl1001.bozztv.com/ushba16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Usba TV",Документалка 1 
-http://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Usba TV",Документалка 2
-http://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Usba TV",Документалка 3
-
-#EXTINF:-1 group-title="Usba TV",Gameplay
-http://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Usba TV",Gameplay трейлеры
-http://fl1001.bozztv.com/ushba44/index.m3u8
-
-#EXTINF:-1 group-title="Usba TV",Retrovision
-http://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Usba TV",Retrovision Motor
-http://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Usba TV",Retrovision Кинопанорама
-http://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Usba TV",Retrovision Movies
-http://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Usba TV",Retrovision Classic
-http://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Usba TV",Музыка 3
-http://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Новое кино 
-http://fs2.persik.by/NovoeKino10/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Вдохновение HD
-http://fs2.persik.by/Vdohnovenie/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",МОЛОДОСТЬ
-http://fs2.persik.by/Molodost9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",МОЛОДОСТЬ R
-http://fs2.persik.by/Molodost9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",В кругу семьи HD
-http://fs2.persik.by/V_krugu_semii4/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Семейное HD
-http://fs2.persik.by/Semejnoe10/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ЛЕГКОЕ КИНО
-http://fs2.persik.by/Legkoe_Kino11/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Кино выходного дня
-http://fs2.persik.by/Kino_vihodnogo_dnia8/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Экранизации HD
-https://fs2.persik.by/Ekranizacii13/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Известные актёры
-http://fs2.persik.by/Izvestnie_akteri6/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ВИЦИН
-http://fs2.persik.by/Vicin_10/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",МИРОНОВ
-http://fs2.persik.by/Mironov8/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ЛЕОНОВ
-http://fs2.persik.by/Leonov_7/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",АНТИСТРЕС
-http://fs2.persik.by/Kino_Antistress9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Киномикс 
-http://fs2.persik.by/Kino_Miks13/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",БОЕВИКИ
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Зомби-апокалипсис 
-http://fs2.persik.by/Zombi_apokalipsis8/index.m3u8
-
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", НТВ СЕРИАЛ
-http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", НТВ СТИЛЬ
-http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", НТВ ХИТ
-http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
-
-#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
-http://65.21.85.175:8000/play/a00o/index.m3u8?token=livetv
-#EXTINF:-1 ,КИНОХИТ
-http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
-#EXTINF:-1 ,Мужское кино
-http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
-
-#EXTINF:-1,viju+ PREMIERE
-http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
-#EXTINF:-1,viju+ COMEDY
-http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
-#EXTINF:-1,Viasat Kino World
-http://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-
-#EXTINF:-1 ,Kids TV
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
-#EXTINF:-1 ,Arirang Korea
-http://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
